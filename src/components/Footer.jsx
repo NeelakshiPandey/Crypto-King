@@ -26,7 +26,7 @@ const Footer = () => {
 
         <VStack w= {"full"} alignItems={['center','flex-end']} >
           {/* <Avatar  style={{filter:'hue-rotate(90deg)'}} boxSize={"20"}  mt={["4", "0"]} src={avatarSrc} /> */}
-          <Text  fontSize={"sm"} letterSpacing={"widest"} >CryptoKing</Text>
+          <Text  fontSize={"sm"} letterSpacing={"widest"} >Crypto Conqueror</Text>
           <Text  fontSize={"sm"} letterSpacing={"widest"} >All right reseved</Text>
         </VStack>
       </Stack>
