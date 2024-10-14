@@ -20,8 +20,9 @@ const About = () => {
       textAlign={'center'}
       letterSpacing={["unset","widest"]}
       >
-      Hey! Myself Neelakshi Pandey . I'm a 2nd Year Student Of Institute Of Engineering and Technology
-     , Lucknow . I have made this project using ReactJs . Here are my other handles ... stay tuned 👍  
+         Hello!
+I’m Neelakshi Pandey, currently pursuing my 2nd year of studies at the Institute of Engineering and Technology, Lucknow. I’m passionate about technology and web development, and I’ve recently completed a project built with ReactJS.
+         Feel free to check out my other handles below. Let’s connect and grow together! 👍
       </Text>
 
       <HStack marginTop={['9','14']} 
