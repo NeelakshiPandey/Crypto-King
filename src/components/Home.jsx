@@ -35,7 +35,7 @@ const Home = () => {
         color={"whiteAlpha.700"}
         mt={"-12"}
       >
-        CryptoKng
+        Crypto Conqueror
       </Text>
     </Box>
   );
